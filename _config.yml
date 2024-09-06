@@ -21,12 +21,13 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 11
   exclude:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - periplo
+     - semkovo
 
 # social_media:
   # behance: your_username
